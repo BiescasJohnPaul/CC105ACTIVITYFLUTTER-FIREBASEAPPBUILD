@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972106791081",
+    "firebase_url": "https://jampol-brew-crew-dace8.firebaseio.com",
+    "project_id": "jampol-brew-crew-dace8",
+    "storage_bucket": "jampol-brew-crew-dace8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972106791081:android:35e148d7a149c4663e51b8",
+        "android_client_info": {
+          "package_name": "com.jampol.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972106791081-9rfbjlfqarrk61vgkokee42ij79opgev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQI-D72n7NGop-DccdkBP3ZP_18w_0uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972106791081-9rfbjlfqarrk61vgkokee42ij79opgev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
